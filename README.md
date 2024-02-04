@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Manage landing page](./public/assets/images/desktop-preview.jpg)
+![Manage landing page](/app/assets/images/desktop-preview.jpg)
 
 ### Links
 

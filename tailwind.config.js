@@ -7,10 +7,17 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        light: "#FFF0EC",
+        dark: "#1D1E25",
+        navy: "#242D52",
+        orange: "#F3603C",
+        background: "#FAFAFA",
+        input: "#8D8D8D",
+        onHover: "#F98F75",
+      },
+      fontFamily: {
+        primary: "'Be Vietnam Pro', sans-serif",
       },
     },
   },
